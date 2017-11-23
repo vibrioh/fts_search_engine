@@ -1,0 +1,375 @@
+Last login: Thu Nov 23 05:08:22 on ttys001
+/Users/vibrioh/.zshrc:.:114: no such file or directory: /usr/local/lib/node_modules/serverless/node_modules/tabtab/.completions/sls.zshexport
+ ~  j lo__
+/Users/vibrioh/local_projects
+ ~/local_projects  cd movie_search_engine
+ ~/local_projects/movie_search_engine   master ✚  python3 imdb_se.py
+Loading movie metadata
+0% [██████████████████████████████] 100% | ETA: 00:00:00
+Total time elapsed: 00:00:06
+Title: Loading movie metadata
+  Started: 11/23/2017 05:15:26
+  Finished: 11/23/2017 05:15:32
+  Total time elapsed: 00:00:06
+Totally 81741 movie metadata loaded
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Loading movie summaries
+0% [███████████████               ] 100% | ETA: 00:00:00Title: Loading movie summaries
+  Started: 11/23/2017 05:15:32
+  Finished: 11/23/2017 05:15:33
+  Total time elapsed: 00:00:00
+Totally 81741 movie summaries loaded
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Creating indices for Elasticsearch
+0% [██████████████████████████████] 100% | ETA: 00:00:00
+Total time elapsed: 00:03:02
+Title: Creating indices for Elasticsearch
+  Started: 11/23/2017 05:15:33
+  Finished: 11/23/2017 05:18:35
+  Total time elapsed: 00:03:02
+Now. We've created the indices of 81422 documents. Search engine is ready to use...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Enter something for search: hilarious movies about cats and dogs
+You are requiring movies about: hilarious movies about cats and dogs
+Here are the most relevant movies (up to 10): hilarious movies about cats and dogs
+Ranking: 	# 1
+R-score: 	20.697073
+Title: 	<< Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey >>
+Date: 	2004
+Runtime: 	85.0
+Genres: 	Japanese Movies
+Languages:
+Countries: 	Japan
+Summary: 	One day, Nobita finds a stray dog drowning in a river while playing by the river side. Feeling sorry for the dog, he decides to take it home by hiding it in a "kennel on the wall" and names it Ichi , and secretly feeds it and plays with Ichi with his Kendama to find. Soon after, he also adopts a stray cat named Zubu ... and many other stray cats and dogs. With so many stray cats and dogs, Nobita, along with his friends, decide to send them back in time, 300 million years ago, where there was no other living beings around. After using the Ray of Evolution to allow them to operate a food-making machine, they depart, with a promise to return to the present. However, when they try to visit them the next day , they encountered a time-space anomaly, sending them crash landing 1,000 years after their original time-destination— to their surprise, They found out the dogs and cats have evolved enough to form a civilized society that rivaled those of Future Society. As the time machine is broken, they try to find help to repair it so they can continue their chrono-journey, only to learn of a bigger issue — a cluster of asteroids are going to Collide with Earth. Will Nobita finally reunite with Ichi, as he promised? More over, what's with Hachi, a dog who resembles Ichi greatly? The 300 million years of time and space adventure begins.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 2
+R-score: 	18.160576
+Title: 	<< Ants in the Pantry >>
+Date: 	1936-02
+Runtime: 	17.0
+Genres: 	Short Film, Comedy, Black-and-white
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	 The Stooges are pest exterminators who are forced to drum up business by planting mice, moths, and ants in an unsuspecting house under the threat of being fired if they cannot. They select a fancy mansion where a high society dinner party is being held. After successfully infesting the house with vermin, the trio are predictably hired to clean up their own mess, without interrupting the party, dressed as guests. One highlight is the piano recital of Johann Strauss II's "Blue Danube Waltz." A chorus of cats in the piano responds, bewildering both the audience and the pianist. The chaos is compounded when a mouse enters the upright piano, agitating the cats. The Stooges are forced to get the offending pest and the cats out of the piano, destroying it in the process. To prevent the hostess from being socially humiliated, the guests are told the boys are the entertainment and find their antics absolutely hilarious. The short ends with the Stooges on a fox hunt. Curly, who has developed a cold, mistakes a skunk for a fox, the stench of which knocks out the other two Stooges and a horse.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 3
+R-score: 	18.051495
+Title: 	<< Pest Man Wins >>
+Date: 	1951-12-06
+Runtime: 	0.0
+Genres: 	Short Film, Comedy, Black-and-white
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	The Stooges are pest exterminators who decide to drum up business by planting mice, moths, and ants in an unsuspecting house. They select a fancy mansion where a high society dinner party is being held. After successfully infesting the house with pests, the trio are predictably hired to clean up their own mess without interrupting the party. One highlight is the piano recital, whereby Johann Strauss II's "Blue Danube Waltz" is being played by party guest/pianist Mr. Philander . A chorus of cats replies, bewildering the audience and Mr. Philander. Chaos ensues inside suddenly when a mouse enters the piano, agitating the cats. The Stooges are forced to get the offending pest off the piano, destroying it with hilarious results. After the piano incident passes, the Stooges start loitering around the pastry table. One things leads to another, and a massive pie fight ensues.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 4
+R-score: 	16.503235
+Title: 	<< The Karnival Kid >>
+Date: 	1929-07-31
+Runtime: 	0.0
+Genres: 	Short Film, Romance Film, Family Film, Comedy, Animation
+Languages:
+Countries: 	United States of America
+Summary: 	The Karnival Kid is broken into two distinct segments. The first segment features Mickey selling hot dogs at a carnival. The second segment is set later that night and features Mickey, accompanied by two cats, in a moonlight serenade. The short opens to the scene of a bustling carnival. After a few initial sight gags, the action quickly focuses on Kat Nipp, a barker at the carnival who is enticing a crowd to see Minnie, "the Shimmy Dancer." Mickey stands nearby, selling hot dogs and heckling Nipp. Nipp briefly gets into a dispute with Mickey over a dancing doll scam. However, Minnie soon notices Mickey and calls him over to order a hot dog. She takes a coin out of her stocking to pay, but Mickey, who is clearly attracted to her, refuses to accept the coin and gives it to her for free. When she bites into the hot dog, it screams and runs away. Mickey catches it and spanks it, concluding the first segment. Much of the humor in this segment comes from the interaction between Mickey and his hot dogs, with the latter tending to act like actual dogs in relation to their owner/trainer. In the second segment, Mickey attempts to draw Minnie's attention by playing guitar outside her window. He is joined by two alley cats who noisily sing along. The sound delights Minnie but awakens an irate Kat Nipp, who had been resting in a nearby trailer. Nipp starts throwing things at the three annoyances in an attempt to silence them. The short ends as Mickey is hit with an entire bed and knocked dizzy. Stalling's score for The Karnival Kid features two notable themes. During the "Shimmy Dance" sequence, a monkey, performing as a one-man band, plays the Snake Charmer song, the common name for The Streets of Cairo. During the moonlight serenade segment, Mickey and the cats perform a rendition of the barbershop standard Sweet Adeline.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 5
+R-score: 	15.639572
+Title: 	<< Smarty Cat >>
+Date: 	1800-01-01
+Runtime: 	0.0
+Genres: 	Children's/Family
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	{{Plot}} Tom's feline friends ([[Butch How to distinguish among Butch, Meathead and Lightning:Butch is black.Meathead is brown with an orange toupee.Lightning is orange without a toupee over his head. peek over a fence and then Butch whistles. Tom shows them a sign with "Nobody home" written on it. The felines run to the house, sneaking while passing a sleeping Spike. Tom lets them in then Butch says: "I got the pictures, Tom! These are the funniest home movies I ever took. Wait'll you see what happened to these dumb dogs. Boy will you make a monkey out of them. They don't know where they are coming or going.  Okay, douse the lights.  Hold it!" Butch points to Jerry, who merely intends to watch the film with the cats. Tom kicks Jerry out of the house and he lands in Spike's mouth. Jerry then pops out from Spike's nose, looking angry. Back at the house, Butch says: "OK boys, here we go!" The movie starts. The movie's title is: "Tom the Terrific Cat Starring Tom". Then first part starts and its title is "Lover Boy!". This part starts with a zoom into a house and to a doghouse labeled "KILLER" with Spike in it . After the cartoon Butch laughs and says: "Lover boy" while mimicking Tom, but then sees Jerry again. Tom kicks Jerry out of the house again. Jerry lands in Spike's mouth again. Jerry opens Spike's eyelid like a curtain and frowns. Butch says: "Part two coming up. This is the time you went fishing, Tom!". Part two is named "The Dumb Dog" . After that cartoon Butch says: "Now there is a dumb dog!" and sees Jerry again, watching the movie from the mail slot. The cats frown at Jerry while Butch yells: "Excuuuuuse me!" and runs to kick Jerry away from there. But Jerry crawls out of the mail slot and runs away before Butch can kick him, causing Butch slip and fall down. Jerry runs next to Spike and sees the door being slammed. He gets annoyed, then he pulls Spike over the window and lifts Spike's head over the windowsill, allowing the dog to see the movie. The movie's third part had just started and it is named "New leash on life" (a scene from [[Fit to Be Tied . After that cartoon, the cats laugh manically. Butch says "Screwball in a side pocket" then continues laughing. An angry Spike then appears behind Butch, who then imitates Spike barking, but, upon realising the imminent danger to come, falters and his voice turns into "bow-wow". In the next scene, the door outdoors is shown while Butch's "bow-wow" voice becomes weaker and weaker. The door then bursts open and Tom runs out of the house. A lamp, chair, book, bookshelf and a table are then shown being thrown out of the house. Afterwards, Topsy, Lightning and Butch run out of the house, with Spike on their trail. Jerry is then seen holding a movie camera and he films the four cats being chased by the canine.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 6
+R-score: 	15.578618
+Title: 	<< Dog in Boots >>
+Date: 	1981
+Runtime: 	20.0
+Genres: 	Parody, Short Film, Musical, Animation
+Languages: 	Russian Language
+Countries: 	Soviet Union
+Summary: 	The film begins with young Gascon Dog running on the road to Paris and singing that he is "provincial yet principled", "unknown, but direct and honest", and "if service, let it be service to the king". He sees two carriages and a beautiful bichon nearby. Anne of Austria, sitting unseen inside one carriage, hands a diamond necklace to the Duke of Buckingham. Then both carriages leave the place. The whole sceen is seen by red cat Milady, who reports on the meeting to a Cardinal Richelieu's gray cat . Following the royal carriage, the Dog meets three dog musketeers in blue Musketeers of the Guard costumes: the Fatty , the Handsome  and the nameless Athos. The dogs get into an argument with the newcomer, but their quarrel is quickly interrupted by a throng of Cardinal's cats. The dogs, despite being greatly outnumbered, win the ensuing fight and become the best friends. The musketeer dogs tell D'Artagnan that the beautiful bichon is the favorite dog of Anne of Austria . D'Artagnan sneak into the king's palace and reveals his feeling to the bichonm singing that "I am not thoroughbred, which is a minus, but I am noble hearted, and that is a plus" and that he is "ready to fight a dozen cats" for her. In response, the bichon asks for his help. She explains that Queen is in trouble, because at the next ball she is expected to wear a diamond necklace presented to the Duke of Buckingham. The ball is tomorrow, but the diamonds have already left France. The bichon gives d'Artagnan the Duke'd glove to track his scent. D'Artagnan rushes to England immediately and three musketeers follow him. Richelieu's gray cat orders to stop them at all costs. Milady arranges several traps: "the Fatty" is lured by a chain of sausages into a cat ambush; "the Handsome", who dreams of becoming a herding dog, is distracted with a herd of sheep who turn out to be cats in sheep skins; Athos stays behind to fight a cat gang chasing the dogs and buy his friend precious time. D'Artagnan alone finally arrives to England. Trying to find the Buckingham's palace he meets English Dog Detective, but after smelling the glove the Detective is only able to determine that "it belongs to a human", who "carries a heavy oak stick". Finally, the Duke's Foxhound helps d'Artagnan to find the way. He steals diamond necklace from Buckingham's palace, defeats Milady and returns just in time for the ball. Anne of Austria's reputation is unblemished. He wins Bichon's heart, rejoin with friends and earns a blue musketeer costume.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 7
+R-score: 	15.535582
+Title: 	<< Cats & Dogs >>
+Date: 	2001-07-04
+Runtime: 	86.0
+Genres: 	Fantasy Comedy, Fantasy Adventure, Adventure, Children's/Family, Comedy, Family Film, Action
+Languages: 	English Language
+Countries: 	United States of America, Australia
+Summary: 	The movie begins with the jeep of the Brody family pulling up to the house. Mrs. Caroline Brody  and her son Scott  bring in the groceries and the family's Bloodhound Buddy immediately starts giving chase to a cat. His chase involves running through a park, into a neighbor's house, and more. Then he finds the cat lying dead on the street, obviously faking. The cat gets up and runs away, and a blue van being driven by cats pulls up and kidnaps Buddy. An Anatolian Shepherd Dog named Butch  watches from a window, then goes to his doghouse, presses a blue button, hidden behind a wooden plank, which grants him access to a large techno-network, and tells an agent of Buddy's kidnap. At Intel HQ, the head dog receives the news about Buddy and orders the best agents to accomplish the mission and defeat the cat menace. Meanwhile at a farm, a small group of Beagle puppies converse and make fun of a younger puppy , who wants to be free. The younger puppy tries an escape, but he fails and he ends up under a bucket. Suddenly, a chainsaw cuts a large hole in the floor and a group of young black Doberman puppies led by a large Doberman Pinscher force the Beagles to go underground, not noticing the younger puppy. Mrs. Brody approaches, and Mrs. Brody comes into the puppy pen, and the younger puppy comes out from under the bucket. She decides to adopt him and takes him home, naming him Lou after Scott sarcastically suggests the name "Loser". Scotty puts him outside and a dog biscuit attached to a balloon falls down. Lou goes near it, and Butch comes out and throws a stick at it, making it explode. Butch then takes Lou into Buddy's doghouse, and shows him the network that dog agents use and takes him to meet some more agents: Peek  is a Chinese Crested Dog who works in an underground tube and has computers, radar, sonar, television, communications, satellite, thermal imaging systems, security cameras, and such. Sam  is a comical Old English Sheepdog. Lou is also briefed on the origins of the war between cats and dogs, which apparently dates all the way back to Ancient Egypt. Butch also mentioned that Buddy was previously on the mission until he was captured by the cats, escaped from them, and retired from the spy business. Meanwhile, Mr. Tinkles (voiced by [[Sean Hayes , a white Persian cat plans to conquer the world by making all humans allergic to dogs with Mr. Brody 's research on a cure for dog allergies. He is briefly interrupted by Sophie the Maid  who needs to dress him upon seeing the comatose Mr. Mason . He then tells his sidekick Calico , an Exotic Shorthair, to send in the ninja cats  he hired to steal the research. He sends in Devon Rex cat ninjas to steal the research but Lou managed to prevent them from stealing the research. Lou then meets a former agent and Butch's ex-girlfriend named Ivy , a Saluki who belly scratches him. Disappointed that the ninja cats failed him, Mr. Tinkles then orders Calico to send a Russian Blue kitten  to steal the research. The Russian then frames Lou for defecating in the house with a ball containing fake dog poop. He then places a bomb on the lab door. Butch and Lou manage to get into the house. The Russian fires a series of boomerangs around the Broody's house breaking several vases, knocking a lamp over, and also make the curtain pole break. Lou then distracts the Russian while Butch tries to disable the bomb, but the Russian turns his attention on Butch and tries to kill him. Butch gets caught in a telephone wire, then Scotty’s mom comes home, looking for her cell phone and surprisingly doesn't notice her wrecked living room. Butch manages to escape and disables the bomb, but the Russian holds out a remote that will explode the bomb and laughs until the lab door hits him. The Russian is then captured and interrogated. The agent tells the gang that they pumped a few things out of the Russian's stomach, including a note written by Mr. Tinkles. After an incident with Lou playing with Scott, Professor Brody's machine finally gets the positive combinations for the formula. As Mr. Tinkles and Calico overhear the call between Professor Brody and another person, they decide to spring a trap for Dr. Brody and his family. First Mr. Tinkles makes his sinister side known to Sophie causing her to faint. Then he and his cats take Mr. Mason's comatose body to Mason's tree flocking plant, where Mr. Tinkles passes his voice off as Mr. Mason to send the employees home and commandeer the factory for the next plot. The cats send soccer tickets to the Brody family, obviously a fake. The cats make a fake entry and when the Brody family pulls up, the cats throw a gas bomb into their car, which goes off and leaves the Brody family unconscious. While trying to decipher Mr. Tinkles's location, the dogs are unaware that the Brodys have been led into a trap and are kidnapped by the said cat. After receiving a video from the cat demanding Mr. Brody's research as a ransom, the dogs from around the world meet up at a meeting run by the Mastiff . When the dog agents are unable to give up the formula after the meeting of the world's dogs, Lou angrily confronts Butch for not helping him. Butch then explains that when his owner went to college, he left him with his grandmother and then storms off, cutting off all of Lou's communications with Peek and others - so Lou wouldn't seek help to save his family. Lou gives in and brings Mr. Tinkles the research and is betrayed. Butch manages to find the depressed Lou, and the two along with Ivy stage an ambush of Mr. Tinkles factory . While Butch, Ivy, Peek, and Sam fight Tinkle's cat forces, Lou frees the Brodys and Calico , revealing he can speak in the process. But Tinkles traps Butch as he goes looking for Lou and almost kills him. Lou defeats Tinkles and rescues Butch, but the claw of an excavator hits his head and a flocking tank, causing an explosion that destroys the factory. Butch manages to save Lou, but Lou is unresponsive. After a few hurtful moments of sadness , Lou awakens and all rejoice. Lou decides to be a normal dog and not an agent. As for Mr. Tinkles, he is sent to live with Sophie and her sisters, who dress him in ridiculous outfits.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 8
+R-score: 	15.115386
+Title: 	<< Undercover Kitty >>
+Date: 	2001
+Runtime: 	88.0
+Genres: 	Family Film, Adventure
+Languages: 	Dutch Language, English Language
+Countries: 	Netherlands
+Summary: 	The story is about a woman, Minoes, who is actually a cat, set into human form by chemical accident. She lives in a box with a journalist, in the fictional town of Killendoorn. Minoes tries to act like a human being, but still has many cattish manners. She likes to eat fish and meowing on the roof with the other town cats, and she is afraid of dogs. She learns to stop her cattish ways and become more of a human. But sometimes she doesn't understand everything. She manages to pull through and started acting like a human. The main story line starts with Tibbe, a journalist for the newspaper of the fictional city of Killendoorn. Tibbe is very shy, and therefore he finds it quite hard to write good articles. One day, Tibbe meets the strange young lady Minoes who is on a tree. She is a cat, set into human form. At first, Tibbe does not believe this, but Minoes happens to know all kinds of interesting news from the town cats, so it doesn't bother him: In exchange for food and a dry place to sleep, Tibbe allows Minoes to help him with his journalist job. With help of the Cat Press Service and all news the cats bring in, Tibbe soon becomes the journalist with the best articles. However, there is one important article that Tibbe does not dare to write: an article on the rich Mr. Ellemeet, the chemical factory owner. All town members consider him a very respectable man, and a real animal lover. But all cats know that he is not what he seems. After Minoes finally convinces Tibbe to write and publish the article, the whole town stands up against him. He loses his job and almost gets kicked out of his tiny apartment. However, Minoes helps set up a sting in which Ellemeet is filmed shooting at cats and revealed to be a cruel villain. In the end, although Minoes has a chance to turn back into a cat by eating a bullfinch , she decides to remain human and stay with Tibbe.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 9
+R-score: 	14.696423
+Title: 	<< Crying... Silicon Tears >>
+Date: 	1800-01-01
+Runtime: 	0.0
+Genres: 	Comedy
+Languages: 	Greek Language
+Countries: 	Greece
+Summary: 	The movie is divided into three clear timelines, the present, the World War II period and the bucolic period . In the present, the rich Della Franca family start a fight with the poor Bisbikis family over a man that romances with women from both families. The Della Franca's manage to put the mother of the Bisbikis', Lavrentia, out of business, which triggers the World War II flashback, where Lavrentia worked with the Greek Resistance. In that period, another event triggers the bucolic period in the form of Lavrentia talking about her ancestors, a man and a woman that lived in a small village in the countryside. No clear main plot existent in any period, the film mainly revolves around Lavrentia's history and the tragic events that stained her life. In the end of the film, it is revealed that the Bisbikis' are actually blood-related to the Della Franca's and they all live happily ever after. Although the film features mostly tragic events, they are presented in a way that parodies older movies of the Greek cinema, rendering them hilarious.{{Says who}} It is both a tribute and a satire of old Greek dramas, war movies and bucolic-style films.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 10
+R-score: 	14.514729
+Title: 	<< Case Closed: The Lost Ship in the Sky >>
+Date: 	2010-04-17
+Runtime: 	103.0
+Genres: 	Japanese Movies
+Languages:
+Countries: 	Japan
+Summary: 	A terrorist group invades a laboratory containing a deadly bacteria and destroys the lab with an explosion. They later announce via the internet they have gained possession of the bacteria and declare themselves to be the {{Nihongo}}, a terrorist group that was eradicated a decade ago. Conan Edogawa, Kogoro Mori, Ran Mori, the Detective Boys, are invited by Sonoko Suzuki's uncle, Jirokichi Suzuki, to fly in his airship to witness his attempt at capturing Phantom Thief Kid by baiting him with the jewel called {{Nihongo}}. Kid replies to Jirokichi's challenge with a letter announcing he will steal Lady Sky when the airship approaches Osaka. Aboard the airship, besides its employees and the police, there are four others who are working for the media: Takamichi Fujioka, a journalist; Masaki Mizukawa, a TV director; Kasumi Nishitani, a reporter; and Junpei Ishimoto, a cameraman. Meanwhile, a waitress enters the smoking room where an ampoule with the logo of the Red Siamese Cats is seen under the sofa. Conan reminisces to Professor Agasa about the time Ran thought an airship was a UFO and asks him to keep it a secret. A waiter overhears Conan in the shadows. Conan's group is given a tour of the airship; Ran diverges from the group to get a better look at Lady Sky. She meets a waiter wearing a bandage similar to the one she gave to a maintenance personnel and grabs his arm deducing he is Kid in disguise. She then subdues him and threatens to hand him over to Ginzo Nakamori. Kid removes the mask and pretends to be Shinichi Kudo and convinces her by telling her she thought the airship was a UFO once. Meanwhile, the waitress begins to develop a rash on the back of her arms. Jirokichi receives a phone call who tells him the bacteria in the smoking room before hanging up. Nakamori confirms through the ampoule that it is the work of the Red Siamese Cats. Fujioka begins to develop a rash over his whole body and approaches the group whilst in pain before being knocked out by Ran. The waitress with the rash is found unconscious by a short-haired waitress; Fujioka and the unconscious waitress are quarantined in a separate room. Conan leaves to search for the Detective Boys who are exploring the ship. Conan finds them in the attic of the airship. There, they witness an unknown culprit unlock the roof allowing the Red Siamese Cats to enter and hijack the ship. Their leader announces they plan to get revenge on Jirokichi who assisted in eradicating the terrorist group and that they will detonate the bombs on the ships or release a second ampoule containing the bacteria if they resist. Conan finds the four rooms in the attic of the ship and disarms them; He notes it was strange they used bombs and bacteria to hijack the ship and attempts to figure out their ulterior motive. The terrorist group holding Jirokichi at gunpoint is able to gain possession of Lady Sky. Mizukawa begins to develop the rash on his right palm and is incarcerated in the smoking room. Ran remembers that Fujioka grabbed her arms and is relieved to find no rash has developed. Nishitani laments that the Detective Boys are missing; the Red Siamese Cats overhear this and bring Conan and the Detective Boys to the lobby. Ai Haibara informs Conan through the Detective Badge that the Red Siamese Cats are after him but is slapped by the short-haired waitress who is revealed to be part of the Red Siamese Cats. Conan is thrown out the window by their leader and Kid manages to save him. Meanwhile, Heizo Hattori attempts to deduce the Red Siamese Cats goals, and confirming that if their goal is to get revenge on the Jirokichi, they would crash the airship into the Suzuki company building, the Bell Tree Tower and consequently release the bacteria in the airship to the outside world. Conan informs Heiji Hattori about the situation. Conan then calls Inspector Juzo Megure as Shinichi in order to use a police helicopter which he and Kid use to re-board the airship. Conan finds two of the four re-armed bombs in the attic of the airship and grows suspicious as there is no bomb behind the smoking room which would have released the bacteria. Heiji calls Conan telling him the Red Siamese Cats have posted on the internet about the airship causing mass panic to the cities in the airship's path. As the ship approaches Nara, Nara, Kid informs Conan that the ship is emitting smoke. Conan realizes the Red Siamese Cat's true motive and sends Heiji to Nara. Ran begins to develop a rash from where Fujioka touched her and is quarantined in the smoking room. Conan becomes suspicious of the bacteria as it was only supposed to spread by droplet contact and not physical contact. Conan notices the black fingernails from Ran's escort and realizes what the true nature of the infection is. Conan lures the Red Siamese Cats to the attic of the airship and incapacitates them one by one. Heiji, meanwhile, confronts four policemen at Kōfuku-ji revealing they are part of the Red Siamese Cats and used the airship to evacuate the city in order to steal the priceless buddharupas. The four fake policemen are then arrested by the Nara police. Conan enters the smoking room where Ran is quarantined and reveals that the Red Siamese Cats never released a bacteria. He explains the smoking room was sprayed with an irritating lacquer which causes a rash when it contacts the skin. Conan then realizes that Fujioka was feigning the symptoms of the bacteria and is the mastermind behind the heist. The Tokyo Metropolitan Police discuss then identities of the Red Siamese Cats. It is revealed they are all foreign mercenaries hired by Fujioka and are only using the terrorist name Red Siamese Cats as a cover up. Conan confronts Fujioka who explains that they targeted the statues since stolen money is easily tracked with modern technology. He then reveals that Nishitani and Ishimoto are his comrades and that the two remaining bombs are placed in the lobby where the group is held and will be detonated when he and his comrades escape the airship. The group in the cabin are tied to the railings by the two culprits who take Lady Sky as their prize. As Fujioka prepares to kill Conan, the airship passes under a bridge and Conan latches his belt to the airship and inflates the soccer ball, jamming it between the bridge and airship causing the airship to tilt vertically. Fujioka falls into the ocean below and the two culprits in the lobby are knocked unconscious. Kid enters the lobby and unties Ran from the railing and leaves with Lady Sky. As he examines the jewel in the moonlight, Ran, believing Kid to be Shinichi, asks him to turn himself in to the police. Kid tells her he will comply if she kisses him. As the two approach for a kiss, Ran stops and tells him he is not Shinichi. Conan enters the room and angrily runs towards Kid. Kid places Lady Sky on Ran's finger and leaves through the ceiling. Conan asks what Kid did to her, to which she remarks something Shinichi never does and thinks about how he tried to touch her rear.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Another search ([Y]/N)?
+Enter something for search: happy movies
+You are requiring movies about: happy movies
+Here are the most relevant movies (up to 10): happy movies
+Ranking: 	# 1
+R-score: 	10.643631
+Title: 	<< Remember My Name >>
+Date: 	1978
+Runtime: 	94.0
+Genres: 	Thriller, Drama, Psychological thriller
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Neil Curry  is living a happy life with his second wife Barbara  in California after abandoning his first wife, Emily  in New York. Their life of domestic bliss is interrupted when Emily comes back from prison, she has completed a 12-year sentence for murdering Neil's former lover. She arrives in California to wreak havoc and also to claim back Neil.Flatley, Guy. At The Movies, pp. 64. The New York Times. 16 December 1977. Retrieved on 30 July 2011
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 2
+R-score: 	9.7843075
+Title: 	<< The Imp >>
+Date: 	1800-01-01
+Runtime: 	0.0
+Genres: 	Chinese Movies
+Languages:
+Countries: 	Hong Kong
+Summary: 	Keung has a pregnant wife but he has been unemployed for a long period. One day he has a new job as a security guard in a commercial building. But strange incidents start happening and his colleagues die in horrible ways one by one by an imp. A geomancer tells Keung that he will be the next victim and teaches him how to avoid the fate. But Keung begins to discover the imp becomes his wife's baby. Fails to stop this, the ending shows him trying to kill the baby by an axe. The movies mix the traditional ghost story with new cinematic techniques, which makes it a most realistic and breath-taking thriller at its time.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 3
+R-score: 	9.6854
+Title: 	<< Children of Montmartre >>
+Date: 	1933
+Runtime: 	83.0
+Genres: 	Drama
+Languages: 	French Language
+Countries: 	France
+Summary: 	Rose, a girl from a well off family faces a series of tragic events that leaves her penniless and without a home. She is hired as an attendant at a day-care center in Paris with 150 poor children. She finds herself tenderly caring for them and soon they become very fond of her. One young girl named Marie, who is the abandoned daughter of a prostitute, becomes so attached to Rose that she becomes jealous when anyone else steals her attention. She even tries to kill herself when she learns of her plans to marry Dr. Libois, the school's physician. Despite this, La Maternelle ultimately finds its way to a happy ending.Hal Erickson, "La Maternelle." Movies. All Media Guide, Answers.com, 2009. http://www.answers.com/topic/la-maternelle, accessed February 20, 2010.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 4
+R-score: 	9.553083
+Title: 	<< Thirupathi >>
+Date: 	2006-04-13
+Runtime: 	158.0
+Genres: 	Action
+Languages: 	Tamil Language
+Countries: 	India
+Summary: 	Thala Ajith is a straight forward young man who leads a happy life with his parents and younger sister. He happens to meet the heroine Sada and both fall for one another. Ajith’s sister is pregnant and at the time of delivery, he takes her to a hospital. The doc there expects bribe but when it is not forthcoming, neglects his duty because of which Ajith’s sister dies. Ajith comes to know that this is not the first instance in the hospital and the doctor is none other than Riyaz Khan’s brother. When he goes out to get him, Riyaz Khan and his father do all that they can to protect this guy from Ajith. That is where the action part of the movie takes off. How Ajith gets his revenge on the people responsible for his sisters death is the movies climax.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 5
+R-score: 	9.424335
+Title: 	<< Raja Babu >>
+Date: 	1994-01-10
+Runtime: 	161.0
+Genres: 	Romantic drama, Melodrama, Drama
+Languages:
+Countries: 	India
+Summary: 	Raja Babu ([[Govinda  is a poor orphan adopted by a wealthy village couple . He is a typical country bumpkin, good-hearted but lacking in urban manners. He falls for Madhu  when he sees her photograph in a studio and chases her on his bike decorated with plastic flowers with his sidekick, played by Shakti Kapoor. Taken in by his smart appearance and impressive talks, she reciprocates his love but walks out on him with all villagers watching when she learns that he is no match to her urbane, well-educated self. It was particularly humilitating for his father as it happened in front of villagers who respected him highly. The movies takes several twists with a typical Bollywoodesque happy ending. Villains are nabbed by police but not before being beaten black and blue by the hero, boy gets his girl and parents are reunited with their son.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 6
+R-score: 	9.121081
+Title: 	<< Evil Dead Trap >>
+Date: 	1988
+Runtime: 	102.0
+Genres: 	Japanese Movies, Horror, World cinema
+Languages: 	Japanese Language
+Countries: 	Japan
+Summary: 	TV show host Nami asks her viewers to send in home movies; she receives a snuff film apparently shot at a nearby factory. Taking a camera crew out to investigate, Nami finds the factory deserted. As Nami and her crew begin to scour the factory, they are murdered one-by-one in grisly fashion until only Nami remains. She ultimately discovers that the killer is Hideki, a small, fetus-like man conjoined to his fully grown, naive twin-brother, who seems unaware of the killings.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 7
+R-score: 	8.829358
+Title: 	<< Comfort and Joy >>
+Date: 	2003
+Runtime: 	89.0
+Genres: 	Romantic comedy, Fantasy, Drama, Comedy, Romantic drama, Romance Film
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Jane Berry is a successful, single entrepreneur. On a Christmas, when she is driving back home in her Jaguar, she has an accident and hits a pole. Sam  comes to her rescue to take her out from her wagon now and tells her that he's her husband for the last 10 years and she has 2 children with him. 10 years ago she had dumped her boyfriend and left her job for Sam. Jane is confused by her new world, where she is a new Jane who is completely different from the previous Jane. Slowly she starts getting used to her new life. After an argument with her parents at Christmas dinner, she is completely impressed by Sam and her family. She kisses Sam and again swoons, finding herself in her Jaguar again after that accident. Sam comes to her rescue and she is back in her original world. She tells Sam that she knows him and is in love with him, which Sam is shocked to hear. They move together to Sam's house to lead a happy life in future.http://www.mylifetime.com/movies/comfort-and-joy
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 8
+R-score: 	8.829358
+Title: 	<< Tortilla Flat >>
+Date: 	1942-05-21
+Runtime: 	105.0
+Genres: 	Romance Film, Drama, Black-and-white
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Danny  inherits two houses, so Pilon  and his poor, idle friends move in. One of them, Pirate,  is saving money which Pilon endeavors to steal, until he discovers that it is being collected to purchase a golden candlestick which he intends to burn for St. Francis to honor the Pirate's dead dog. One of the houses burns down, so Danny allows his friends to move into the other house with him, and in gratitude Pilon tries to make life better for his friend. Things are fine at first until Danny's passion for a lovely girl  causes him to actually go to work. A misunderstanding caused by Pilon about a vacuum cleaner causes Danny to lose it; he becomes drunk and a bit crazy. He almost dies in an accident in the cannery but through Pilon's prayers, is restored to health. He then marries his sweetheart with the promise that he will become a fisherman now that Pilon has found the money to buy a boat. The happy ending is quite different from the novel's ending in which Danny dies after a fall, and is totally in keeping with the optimistic, feel-good, MGM movies of that time.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 9
+R-score: 	8.829358
+Title: 	<< Living on Velvet >>
+Date: 	1935-03-02
+Runtime: 	75.0
+Genres: 	Romantic drama, Romance Film, Melodrama, Drama
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	One day, Terry Parker, an airplane pilot is in a plane crash that kills his family. He feels guilty for their death and feels like he should have died in the crash as well. Terry continues to get into trouble until his friend, Walter Pritcham, known as Gibraltar for his steady nature, brings him to a party. Terry meets the beautiful Amy Prentiss and they both fall in love. Terry realizes that Amy is Gibraltar's girl and tries to leave Amy, but Gibraltar reunites the couple wanting Amy to be happy. Amy and Terry get married and Gibraltar gives them a house in the country on Long Island. Terry is unemployed for some time until he get the idea to fly commuters into New York. However, Amy believes that Terry will not act responsibly and leaves him. Gibraltar tries to get Amy to go back to Terry, but she refuses. Terry is in a car crash and Amy and Gibraltar rush to see him. Terry and Amy realize that they do love each other and vow never leave each other ever again.<ref name1022], Turner Classic Movies Website.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 10
+R-score: 	8.704527
+Title: 	<< Hoodoo Ann >>
+Date: 	1916-03-26
+Runtime: 	64.0
+Genres: 	Silent film, Black-and-white, Biopic [feature]
+Languages: 	Silent film, English Language
+Countries: 	United States of America
+Summary: 	Ann  is a young girl who has been living in an orphanage since infancy. She is disliked and spurned by the other children, and treated coldly by the orphanage administrators—the reason for this, however, is unclear. She is told by the orphanage cook Black Cindy  during a palm-reading that she will be cursed until she is married. Ann's stay at the orphanage is an endless series of unhappy circumstances; she steals a doll belonging to a popular girl named Goldie , then accidentally breaks the doll, thereby adding to her loneliness and misery. One day, while the children are napping, a fire breaks out in the orphanage and Ann heroically saves Goldie from the flames.Hoodoo Ann at Yahoo! Movies Impressed with Ann's selflessness, a kindly couple, Samuel and Elinor Knapp  take her in and later adopt Ann. Ann immediately becomes smitten with a neighbor boy named Jimmie Vance  and the two youths begin courting. Believing that her "curse" is coming to an end, Ann attends a motion picture with Jimmie. Enthralled by the action-filled western film she had witnessed, the following day Ann is inspired to imitate the film's main character Pansy Thorne while playing with a gun. Unbeknownst to Ann, the gun is loaded and a round goes off and the stray bullet enters a neighbor's house. Ann tentatively peers through the window and is shocked to see her neighbor, Bill Higgins ([[Charles Lee  lying on the floor. Believing she killed Mr. Higgins, Ann is despondent, sure that the curse is still upon her and fearful that Jimmie will never marry her now that she has committed murder.The New York Times Movies: Hoodoo Ann After tearfully confessing to her "crime" and a subsequent investigation into the peculiar disappearance of the body of Mr. Higgins, the town is shocked when Mr. Higgins returns home several days later and reveals that he had simply left town to avoid his wife's incessant nagging. Overjoyed, Jimmie and Ann marry and the "hoodoo" is lifted. But the wedding ceremony is not entirely a happy affair; Ann appears distracted and pensive throughout, leaving the viewer to wonder if she perhaps believes that the curse is still upon her.AFI Catalog: Silent Films
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Another search ([Y]/N)?
+Enter something for search: biology creatures
+You are requiring movies about: biology creatures
+Here are the most relevant movies (up to 10): biology creatures
+Ranking: 	# 1
+R-score: 	10.877861
+Title: 	<< The Living Hell >>
+Date: 	2008-10-22
+Runtime: 	92.0
+Genres: 	Science Fiction, Horror, Suspense
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	A mild-mannered biology teacher  and a perky U.S Army hazmat specialist  have to figure out how to stop an unstoppable creature who feeds on light and energy, and moves with exponential speed, before it destroys everything in its path.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 2
+R-score: 	9.906612
+Title: 	<< Curse of Bigfoot >>
+Date: 	1978
+Runtime: 	88.0
+Genres: 	Horror
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	A high school Biology class receives a visitor, who is a good friend of their teacher. He tells them of an encounter that he and their teacher had 15 years before while searching for Indian artifacts in the nearby mountains. They find a mummified corpse in a cave that resembles a rough-hewn statue. The mummy is brought back to their lodge and breaks out of its wrappings. It goes on a short rampage in what appears to be an orchard. The humans gather together to stop the creature before it can kill any one.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 3
+R-score: 	9.906612
+Title: 	<< Creator >>
+Date: 	1985
+Runtime: 	107.0
+Genres: 	Romantic comedy, Science Fiction, Romance Film, Comedy-drama, Comedy
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Harry Wolper  is a Nobel Prize laureate in biology, obsessed by the possibility to clone his beloved late wife, Lucy. Helped by the student Boris Lafkin  and an eccentric egg-donor girl, Meli , Dr. Wolper finally succeeds in the cloning process, but the events leading to this achievement create strong bonds between himself and Meli, and also between Boris and his schoolmate, Barbara . In the end, Harry realizes that he is in love with Meli, and interrupts the cloning process dropping the last cells of Lucy into the sea.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 4
+R-score: 	9.6170635
+Title: 	<< Dr. Alien >>
+Date: 	1989
+Runtime: 	90.0
+Genres: 	Science Fiction, Comedy
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Dr. Ackerman  is the high school biology teacher. Leaving school one night he crashes his car after encountering a UFO. Wesley Littlejohn  is a geek who is in Dr. Ackerman's class, along with his opportunistic friend Marvin . Wesley is the stereotypical geek who is bullied at school and relies on Marvin to defuse situations with the bullies. He is also in love with Leanne , but is too shy to make any kind of approach to her. Instead of Dr. Ackerman teaching biology that day, a sexy, blond substitute teacher named Ms. Xenobia  arrives and informs the class she will be teaching for the time being. All the males in the class are stunned at having such a sexy woman as a teacher, apart from Wesley. Looking for a participant in an experiment, all the males in class volunteer but Ms. Xenobia selects Wesley and asks him to attend after school has finished. Wesley goes back to the class after school, where he encounters Drax, Ms. Xenobia's assistant . Ms. Xenobia arrives and explains that the experiment involves being injected with a vitamin supplement and observing Wesley's reaction. Wesley does not want to participate and Ms. Xenobia agrees, before injecting him with the "supplement" when his back is turned. Out of Wesley's head, a phallic like stalk starts to emerge, which sexually excites Ms. Xenobia. She proceeds to have sex with Wesley  with Drax recording the findings. After the "experiment" Wesley is sent home. At home Wesley's parents and brother start to see changes in him. He becomes more confident and assured, which allows him to get closer to Olivia. However, after the experiment, there is a tendency for the stalk to emerge at the most inconvenient times, usually when there are women around. This leads to several sexual encounters, notably with a former bully's girlfriend and the female gym teacher . Each time these encounters happen, Wesley is left with amnesia and he starts to suspect Ms. Xenobia has given him something more than a vitamin supplement. Challenging Ms. Xenobia on the experiments, he is injected again with the serum by Drax and again has sex with Ms. Xenobia. Away from school, Wesley becomes the singer of a heavy metal band called the Sex Mutants . He also goes on a date with Leanne, although it is interrupted by the stalk which leads Leanne to become passionate with him before "waking up" and accusing Wesley of trying things on too fast. Wesley protests his innocence later on and invites her to a gig that the Sex Mutants are playing at. The Sex Mutants play their gig, along with support from the Poon Tangs . After the show has finished, Wesley is backstage with the Poon Tangs when Leanne arrives. Shocked that Wesley appears to be flirting with the girls, she runs off and Wesley follows her. Outside the venue, Ms. Xenobia is waiting for Wesley. Wearing a silver spacesuit, she informs Wesley that she is in fact an alien who had been experimenting on him to help her race. The males of her species lost the ability to procreate and she was tasked with finding the cure. With humans having a similar biology to her species, she landed on earth and began her experiments with Wesley. Wesley does not believe this and tells Ms. Xenobia that she is crazy. Ms. Xenobia then proceeds to peel off her face, revealing that it was a mask covering her true identity. Rather than a sexy woman, she is revealed to have a large blue head. Wesley panics and runs off . Wesley returns to the school  where he blows up the biology lab, destroying Ms. Xenobias serum. Ms. Xenobia meanwhile starts to shoot up the music venue with a ray gun. Wesley arrives and threatens to drop the last batch of serum unless Ms. Xenobia stops her violent spree. Refusing to do so, Wesley destroys the serum, shocking Ms. Xenobia enough that she stops shooting. Despondent that the chances of saving her race are over, Drax appears with a stalk growing from his head; he had taken some of the serum because he was in love with Ms. Xenobia. This allows Ms. Xenobia to have a change of heart and she apologises for all the hassle she caused Wesley. Wesley is also able to reconcile with Leanne. In the end Ms. Xenobia and Drax head home to their planet, while Wesley continues his new career with the Sex Mutants.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 5
+R-score: 	9.483248
+Title: 	<< Bad Biology >>
+Date: 	2008
+Runtime: 	85.0
+Genres: 	Cult, Horror, Fantasy
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	Driven by biological excess, a young man and woman search for sexual fulfillment, unaware of each others existence. Unfortunately, they eventually meet, and the bonding of these two very unusual human beings ends in an over-the-top sexual experience.MySpace.com - Bad Biology - 101 - Garçon - NEW YORK, New York - www.myspace.com/badbiology Jennifer  has seven known clitorises , began menstruating at age five, and gives birth to a mutant baby two hours after each act of sexual intercourse. No man has been able to satisfy her, and she discards all of her offspring, as she refers to them as not being real. Batz , has a vagina-addicted penis with a mind of its own, that is growing out of control.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 6
+R-score: 	9.350055
+Title: 	<< Suddenly at Midnight >>
+Date: 	1981-07-17
+Runtime: 	95.0
+Genres: 	Horror
+Languages:
+Countries: 	South Korea
+Summary: 	Kang Yu-jin, a wealthy biology professor doing a butterfly field study, takes in a new housemaid; the young woman, Mi-ok, is the daughter of a shaman priestess who recently died in a house fire. At first, Yu-jin and his wife, Seon-hee, welcome Mi-ok into their home, but Seon-hee begins to have misgivings when she sees a strange wooden doll that the maid has brought with her. Having suffered from nightmares about exactly the same doll, Seon-hee becomes increasingly suspicious that Mi-ok is trying to kill her and usurp her household. In a fit of madness, Seon-hee causes Mi-ok to fall to her death. From then on, Seon-hee is tormented by visions of the doll attacking her.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 7
+R-score: 	9.350055
+Title: 	<< Plug & Pray >>
+Date: 	2010
+Runtime: 	91.0
+Genres: 	Science Fiction, World cinema, Documentary
+Languages: 	Japanese Language, Italian Language, German Language, English Language
+Countries: 	Germany
+Summary: 	Computer experts around the world strive towards the development of intelligent robots. Pioneers like Raymond Kurzweil and Hiroshi Ishiguro dream of fashioning intelligent machines that will equal their human creators. In this potential reality, man and machine merge as a single unity. Rejecting evolution's biological shackles tantalisingly dangles the promise of eternal life for those bold enough to seize it. But others, like Joseph Weizenbaum, counter attack against society's limitless faith in the redemptive powers of technology. Eloquent and tactful, he questions the prevailing discourses on new technologies, and their ethical relationships to human life. The film delves into a world where computer technology, robotics, biology, neuroscience, and developmental psychology merge and features the world’s leading roboticists in their laboratories in Japan, the USA, Italy and Germany.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 8
+R-score: 	8.669278
+Title: 	<< Dayo: Sa Mundo ng Elementalia >>
+Date: 	2008-12-25
+Runtime: 	25.0
+Genres: 	Short Film, Fantasy, Adventure, Animation
+Languages: 	Filipino language
+Countries: 	Philippines
+Summary: 	Dayo is a heartwarming story of overcoming one's fear and succeeding over adversity. The plot revolves around Bubuy  who is out to save his abducted grandparents in the land of Elementalia, a magical and mystical world that houses many of the Philippines' mythical creatures and other enchanted elements. This locally produced animated film aims to reintroduce the other side of mythical creatures like the tikbalang, kapre, manananggal, and aswang by giving a new dimension to these typically reviled creatures.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 9
+R-score: 	8.668838
+Title: 	<< The Green Slime >>
+Date: 	1968
+Runtime: 	0.0
+Genres: 	Japanese Movies, Sci-Fi Horror, Horror, Science Fiction, Adventure
+Languages: 	Japanese Language, English Language
+Countries: 	United States of America, Japan
+Summary: 	A group of astronauts set out to stop a giant asteroid on a collision course with the planet Earth. They land on the asteroid, plant explosive charges and destroy it. Afterwards they return to the staging area, a space station called Gamma 3 in orbit around the Earth. Unfortunately, a scientist from the mission has unwittingly carried a luminous-green substance on the leg of his spacesuit which quickly mutates into one-eyed, tentacled monsters with the ability to discharge lethal bolts of electricity. The Gamma 3 crew fend off the alien creatures with their laser-based weaponry, only to discover the creatures feed off the energy which, in turn, allows them to multiply rapidly, sprouting the new creatures from their blood. As the creatures overrun the station the crew continues to fight back against overwhelming odds.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ranking: 	# 10
+R-score: 	8.583785
+Title: 	<< The Flesh Eaters >>
+Date: 	1964-03-18
+Runtime: 	87.0
+Genres: 	Science Fiction, B-movie, Indie, Black-and-white, Horror Comedy, Horror
+Languages: 	English Language
+Countries: 	United States of America
+Summary: 	A wealthy, over-the-hill actress named Laura Winters  hires pilot Grant Murdoch  to fly her and her assistant Jan Letterman  to Provincetown, but a storm forces them to land on a small island. They soon meet Prof. Peter Bartell  a marine biologist with a German accent who is living in seclusion on the isle. After a series of strange skeletons wash ashore  it turns out the water has become inhabited by some sort of glowing microbe which apparently devours flesh rapaciously. Bartell is a former US Government agent who was sent to Nazi Germany to recover as much of their scientific data as possible. He was chosen for the job for his scientific skills and knowledge of the German language. Using the methods learned there he hopes to cultivate a group of monstrous "flesh eaters" that can devour the skin off a screaming victim in mere seconds. A beatnik named Omar  joins the group after becoming shipwrecked on their shore. Tensions mount after the plane drifts off into the ocean, leaving the castaways and Bartell as potential meals for the ravenous monsters. High-voltage electrification  is utilized in an attempt to slay the monsters. Bartell explains that he has been tracking these creatures and attempting to cultivate them to sell as biological weapons. Soon after it is discovered that the electrical shock instead increases their powers. The high voltage causes the numerous smaller creatures to join into a larger version. By accident, the survivors stumble upon the solution. The creatures devour flesh but not blood, as in each case that remains have been found blood has been present. Bartell surmises that the creatures have a negative reaction to hemoglobin and when directly injected with it the creatures are indeed slain. Following a struggle Bartell is killed just before Murdoch destroys the last of the creatures.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Another search ([Y]/N)?n
+ ~/local_projects/movie_search_engine   master ✚ 
